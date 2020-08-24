@@ -15,5 +15,5 @@ In this tutorial we will try our best to pool resources scattered around to make
 * Python
 ## Data Visualisation examples
 
-<img src="https://user-images.githubusercontent.com/70136677/91067673-dbf10780-e650-11ea-970b-d1c16eaee43e.png" alt="alt text" width="250" height="280">
-<img src="https://user-images.githubusercontent.com/70136677/91067688-e01d2500-e650-11ea-9a84-b2d7e1c0a2af.png" alt="alt text" width="400" height="280">
+<img src="https://user-images.githubusercontent.com/70136677/91067673-dbf10780-e650-11ea-970b-d1c16eaee43e.png" alt="alt text" width="250" height="280"><img src="https://user-images.githubusercontent.com/70136677/91067688-e01d2500-e650-11ea-9a84-b2d7e1c0a2af.png" alt="alt text" width="400" height="280">
+
