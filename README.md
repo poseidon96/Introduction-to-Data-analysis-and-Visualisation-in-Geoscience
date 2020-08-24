@@ -6,7 +6,7 @@ A broad range of [oceanographic data](http://www.cgd.ucar.edu/cas/tn404/text/tn4
 In this tutorial we will try our best to pool resources scattered around to make your life a little bit better.
 ### Common programming languages used in Oceanography
 * [Ferret](https://ferret.pmel.noaa.gov/Ferret/) (Custom tailored for Ocean/Met Data)
-* Fortran
-* NCL
+* [CDO](https://code.mpimet.mpg.de/projects/cdo/) (Climate data operator)
+* [NCL](https://www.ncl.ucar.edu/)(NCAR Command Language)
 * Matlab
 * Python
