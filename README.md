@@ -19,10 +19,10 @@ In this tutorial we will try our best to pool resources scattered around to make
 <img title="GMT" src="https://user-images.githubusercontent.com/70136677/91067683-de536180-e650-11ea-8222-a53000bc0297.png" alt="alt text" width="500" height="280">
 
 ##### Contact for more details.<br/>
-*Ajay Bhadran*
-*ajaybhadran@gmail.com*
-*Research Scholar*
-*Department of Atmospheric Science*
-*Central University of  Rajasthan*
+*Ajay Bhadran*<br/>
+*ajaybhadran@gmail.com*<br/>
+*Research Scholar*<br/>
+*Department of Atmospheric Science*<br/>
+*Central University of  Rajasthan*<br/>
 *Mob:-+919895447793*
 
