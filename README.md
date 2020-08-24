@@ -14,6 +14,5 @@ In this tutorial we will try our best to pool resources scattered around to make
 * Matlab
 * Python
 ## Data Visualisation examples
-GrADS                                    NCL
-<img title="GrADS" src="https://user-images.githubusercontent.com/70136677/91067673-dbf10780-e650-11ea-970b-d1c16eaee43e.png" title="ss" alt="alt text" width="250" height="280"><img title="NCL" src="https://user-images.githubusercontent.com/70136677/91067688-e01d2500-e650-11ea-9a84-b2d7e1c0a2af.png" alt="alt text" width="400" height="280">
+<img title="GrADS" src="https://user-images.githubusercontent.com/70136677/91067673-dbf10780-e650-11ea-970b-d1c16eaee43e.png" title="ss" alt="alt text" width="250" height="280"><img title="NCL" src="https://user-images.githubusercontent.com/70136677/91067688-e01d2500-e650-11ea-9a84-b2d7e1c0a2af.png" alt="alt text" width="400" height="280"><img title="GMT" src="https://user-images.githubusercontent.com/70136677/91067683-de536180-e650-11ea-8222-a53000bc0297.png" alt="alt text" width="500" height="280">
 
